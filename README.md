@@ -1,6 +1,5 @@
 # 👋 Hello, I'm Michael!
-
-Welcome to my GitHub profile! I'm a passionate developer with a keen interest in building cutting-edge applications and exploring new technologies. Here’s a snapshot of what I’m currently working on and interested in:
+Always learning
 
 ## 💼 Skills & Technologies
 - **Languages**: C#, TypeScript, Python, Rust, Go
