@@ -2,7 +2,7 @@
 Always learning
 
 ## 💼 Skills & Technologies
-- **Languages**: C#, TypeScript, Python, Rust, Go
+- **Languages**: C#, TypeScript
 - **Frameworks**: React, Next.js, Express, .NET
 - **Tools & Technologies**: Docker, GitLab CI, SQL, Solana Blockchain
 
