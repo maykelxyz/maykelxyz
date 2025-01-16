@@ -2,13 +2,12 @@
 Always learning
 
 ## 💼 Skills & Technologies
-- **Languages**: C#, TypeScript
+- **Languages**: Golang, C#, Javascript, Typescript
 - **Frameworks**: React, Next.js, Express, .NET
 - **Tools & Technologies**: Docker, GitLab CI, SQL, Solana Blockchain
 
 ## 🌐 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/mjtpediglorio/)
-- [Twitter](https://x.com/maykeeeeel_rs)
 - [Portfolio](https://mjtpediglorio.com)
 - [Email](mailto:mjtpediglorio@gmail.com)
 
