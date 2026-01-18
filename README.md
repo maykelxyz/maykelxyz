@@ -1,15 +1,32 @@
-# 👋 Hello, I'm Michael!
-Always learning
+# 👋 Hi, I'm Michael
 
-## 💼 Skills & Technologies
-- **Languages**: Solidity, Golang, Typescript, Javascript, C#
-- **Frameworks**: React, Next.js, Express, .NET
-- **Tools & Technologies**: Docker, GitLab CI, SQL, Solana Blockchain
+**Smart Contract & Backend Engineer** | DeFi • Full-Stack • Security
 
-## 🌐 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/mjtpediglorio/)
-- [Portfolio](https://mjtpediglorio.com)
-- [Email](mailto:mjtpediglorio@gmail.com)
+Building production smart contracts for 30k+ users across EVM chains. Focused on gas optimization, security, and scalability.
 
-## 📬 Reach Out
-Feel free to send me an email or message through my contacts if you have any questions or concerns. I'm always open to collaborate
+## 🛠️ Tech Stack
+
+**Blockchain:** Solidity • Foundry • Hardhat • EVM Chains  
+**Backend:** Go • TypeScript • Node.js • Python • C#  
+**Frontend:** React • Next.js • Express  
+**Data:** MySQL • PostgreSQL • MongoDB  
+**Tools:** Docker • Linux • CI/CD
+
+## 🏆 Projects
+
+**[Walletbeat](https://github.com/yourusername/walletbeat)** — EVM wallet ratings promoting transparency and decentralization  
+**[Across Protocol Scaffold](https://github.com/yourusername/across-scaffold)** — Next.js SDK for crosschain apps  
+**NFT Marketplace** — Full-stack platform with $8M+ on-chain volume  
+**Decentralized Stablecoin** — DeFi protocol with automated liquidations  
+
+## 📜 Certification
+
+<a href="https://mjtpediglorio.com/solidity-certification.png">
+  <img src="https://mjtpediglorio.com/solidity-certification.png" alt="Solidity Smart Contract Developer - Cyfrin" width="600"/>
+</a>
+
+**Solidity Smart Contract Developer** — Cyfrin
+
+## 📫 Connect
+
+[Portfolio](https://mjtpediglorio.com) • [LinkedIn](https://linkedin.mjtpediglorio.com) • [Email](mailto:michaelpediglorio1109@gmail.com)
