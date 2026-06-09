@@ -12,13 +12,6 @@ Building production smart contracts for 30k+ users across EVM chains. Focused on
 **Data:** MySQL • PostgreSQL • MongoDB  
 **Tools:** Docker • Linux • CI/CD
 
-## 🏆 Projects
-
-**[Walletbeat](https://github.com/yourusername/walletbeat)** — EVM wallet ratings promoting transparency and decentralization  
-**[Across Protocol Scaffold](https://github.com/yourusername/across-scaffold)** — Next.js SDK for crosschain apps  
-**NFT Marketplace** — Full-stack platform with $8M+ on-chain volume  
-**Decentralized Stablecoin** — DeFi protocol with automated liquidations  
-
 ## 📜 Certification
 
 <a href="https://mjtpediglorio.com/solidity-certification.png">
