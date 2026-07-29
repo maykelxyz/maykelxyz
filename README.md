@@ -12,8 +12,8 @@ Building production smart contracts for 30k+ users across EVM chains. Focused on
 **Data:** MySQL • PostgreSQL • MongoDB  
 **Tools:** Docker • Linux • CI/CD
 
+<!--
 ## 📜 Certification
-
 <a href="https://mjtpediglorio.com/solidity-certification.png">
   <img src="https://mjtpediglorio.com/solidity-certification.png" alt="Solidity Smart Contract Developer - Cyfrin" width="600"/>
 </a>
@@ -23,3 +23,4 @@ Building production smart contracts for 30k+ users across EVM chains. Focused on
 ## 📫 Connect
 
 [Portfolio](https://mjtpediglorio.com) • [LinkedIn](https://linkedin.mjtpediglorio.com) • [Email](mailto:michaelpediglorio1109@gmail.com)
+-->
