@@ -1,3 +1,5 @@
+<!--
+
 # 👋 Hi, I'm Michael
 
 **Smart Contract & Backend Engineer** | DeFi • Full-Stack • Security
@@ -12,7 +14,6 @@ Building production smart contracts for 30k+ users across EVM chains. Focused on
 **Data:** MySQL • PostgreSQL • MongoDB  
 **Tools:** Docker • Linux • CI/CD
 
-<!--
 ## 📜 Certification
 <a href="https://mjtpediglorio.com/solidity-certification.png">
   <img src="https://mjtpediglorio.com/solidity-certification.png" alt="Solidity Smart Contract Developer - Cyfrin" width="600"/>
